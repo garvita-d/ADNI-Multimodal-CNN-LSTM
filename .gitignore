@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data (IMPORTANT: Never commit actual ADNI data!)
+data/ADNI/
+data/*.csv
+data/*.zip
+*.nii
+*.nii.gz
+
+# Model checkpoints
+*.pth
+*.pt
+checkpoints/
+
+# Results
+results/
+outputs/
+xai_results.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
