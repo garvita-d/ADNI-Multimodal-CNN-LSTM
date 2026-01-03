@@ -559,9 +559,9 @@ extract_adni_zips(
 ## 👥 Team
 
 **Research Team:**
-- **Anya Kalluri** (SE22UCSE033) - Model Architecture & Training
-- **Niharika Dundigalla** (SE22UCSE087) - Data Preprocessing & Evaluation
-- **Garvita Dalmia** (SE22UCSE099) - XAI Implementation & Analysis
+- **Anya Kalluri** (SE22UCSE033)
+- **Niharika Dundigalla** (SE22UCSE087) 
+- **Garvita Dalmia** (SE22UCSE099)
 
 **Institution:** Mahindra University, Hyderabad, India  
 **Department:** School of Engineering  
@@ -570,19 +570,6 @@ extract_adni_zips(
 ---
 
 ## 📝 Citation
-
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@article{kalluri2025multimodal,
-  title={Multimodal Fusion of MRI and Cognitive Assessments Using CNN-LSTM 
-         for Alzheimer's Disease Prediction},
-  author={Kalluri, Anya and Dundigalla, Niharika and Dalmia, Garvita},
-  year={2025},
-  institution={Mahindra University},
-  url={https://github.com/garvita-d/ADNI-Multimodal-CNN-LSTM}
-}
-```
 
 **ADNI Data Citation:**
 ```
